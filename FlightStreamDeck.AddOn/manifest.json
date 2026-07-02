@@ -1,4 +1,4 @@
-﻿{
+{
   "Actions": [
     {
       "Icon": "Images/toggleIcon",
@@ -437,6 +437,6 @@
     }
   ],
   "Software": {
-    "MinimumVersion": "6.1"
+    "MinimumVersion": "6.4"
   }
 }
